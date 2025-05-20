@@ -5,7 +5,7 @@ I'm Praffi, a passionate 2nd-semester IT student who's currently diving into the
 I created this space to share my learning journey, explore cool technologies, and build real-world projects that reflect my growth.  
 > "Every expert was once a beginner — and this is my starting point." 🚀
 
-![ikuyo-kita](gif/ikuyo-kita.gif)
+![ikuyo-kita](gif/emilia.gif)
 
 🌱 I’m currently learning **C++, Data Structures, and Web Development**  
 🎯 My goal is to become a **Fullstack & iOS Developer**  
