@@ -5,7 +5,7 @@ I'm Praffi, a passionate 3rd-semester IT student who's currently diving into the
 I created this space to share my learning journey, explore cool technologies, and build real-world projects that reflect my growth.  
 > "Every expert was once a beginner — and this is my starting point." 🚀
 
-![Ryou Yamada](https://tenor.com/view/yamada-ryou-yamada-ryo-ryo-yamada-ryou-yamada-bocchi-the-rock-gif-27014738) 
+![Ryou Yamada](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRzeTA0NWVwdmx2YXl2aHozMHhtZ2w5eXlhejhuNTY1Z25lMGs3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HYInxOZCNfk3Q7x8GS/giphy.gif) 
 
 🌱 I’m currently learning **Web Development**  
 🎯 My goal is to become a **Fullstack & iOS Developer**  
