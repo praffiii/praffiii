@@ -25,5 +25,5 @@ I created this space to share my learning journey, explore cool technologies, an
 
 ---
 ### 📫 Contact Me
-![discordapp.com/users/403511403622694913](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+![https://discord.com/users/403511403622694913](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
 )
