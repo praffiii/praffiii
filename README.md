@@ -1,15 +1,15 @@
 ## 👋 Hi, welcome to my GitHub!
 
-I'm Praffi, a passionate 2nd-semester IT student who's currently diving into the world of **Web Development**, **C++ programming**, and **Data Structures**.  
+I'm Praffi, a passionate 3rd-semester IT student who's currently diving into the world of **Web Development**.
 
 I created this space to share my learning journey, explore cool technologies, and build real-world projects that reflect my growth.  
 > "Every expert was once a beginner — and this is my starting point." 🚀
 
-![ikuyo-kita](gif/emilia.gif)
+![Ryou Yamada](https://tenor.com/view/yamada-ryou-yamada-ryo-ryo-yamada-ryou-yamada-bocchi-the-rock-gif-27014738) 
 
-🌱 I’m currently learning **C++, Data Structures, and Web Development**  
+🌱 I’m currently learning **Web Development**  
 🎯 My goal is to become a **Fullstack & iOS Developer**  
-📚 Currently an IT student in my 2nd semester  
+📚 Currently an IT student in my 3nd semester  
 🔗 Portfolio (coming soon...)
 
 ---
