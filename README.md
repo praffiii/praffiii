@@ -13,8 +13,7 @@ I use this GitHub profile to document my learning journey, explore new tools, an
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,php,react,nextjs,vue,astro,tailwind,nodejs,express,python,postgres,mysql,mongodb,prisma,supabase&theme=dark" />
-  <br />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,php,react,nextjs,vue,astro,tailwind,nodejs,express,python,postgres,mysql,mongodb,prisma,supabase&theme=dark&perline=20" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/zustand-dark.svg" width="48" height="48" alt="Zustand" />
   <img src="https://tanstack.com/images/logos/logo-color-100.png" width="48" height="48" alt="TanStack" />
 </p>
@@ -22,5 +21,5 @@ I use this GitHub profile to document my learning journey, explore new tools, an
 ### Dev tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,gcp,vercel,vite,bun,postman,pnpm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,gcp,vercel,vite,bun,postman,pnpm&theme=dark" />
 </p>
