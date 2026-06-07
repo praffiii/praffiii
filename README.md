@@ -1,31 +1,26 @@
-## 👋 Hi, welcome to my GitHub!
+## Hi, I'm Praffi
 
-I'm Praffi, a passionate 4rd-semester IT student who's currently diving into the world of **Web Development**.
+I'm an IT student based in Jakarta, currently learning and building with web technologies.
 
-I created this space to share my learning journey, explore cool technologies, and build real-world projects that reflect my growth.
+I use this GitHub profile to document my learning journey, explore new tools, and build projects that help me grow as a developer.
 
-> "Every expert was once a beginner — and this is my starting point." 🚀
+### About me
 
-🌱 I’m currently learning **Web Development**  
-🎯 My goal is to become a **Fullstack & iOS Developer**  
-📚 Currently an IT student in my 4nd semester
+- Currently learning **Web Development**
+- Interested in **Fullstack Development** and **iOS Development**
+- Focused on improving through real projects and consistent practice
 
----
-
-### 🛠️ Tech Stack
+### Tech stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src= "https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,php,react,nextjs,vue,astro,tailwind,nodejs,express,python,postgres,mysql,mongodb,prisma,supabase&theme=dark" />
+  <br />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/zustand-dark.svg" width="48" height="48" alt="Zustand" />
+  <img src="https://tanstack.com/images/logos/logo-color-100.png" width="48" height="48" alt="TanStack" />
 </p>
 
----
+### Dev tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,gcp,vercel,vite,bun,postman,pnpm&theme=dark" />
+</p>
